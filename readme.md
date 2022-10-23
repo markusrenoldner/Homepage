@@ -2,8 +2,6 @@
 
 My name is Markus Renoldner.
 
-Find my linkedin here:
-www.linkedin.com/in/markusrenoldner
+Find my linkedin [www.linkedin.com/in/markusrenoldner](here),
 
-Any my github here:
-https://github.com/markusrenoldner
+And my github [https://github.com/markusrenoldner](here).
