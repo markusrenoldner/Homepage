@@ -1,6 +1,6 @@
-# welcome
+# Welcome
 
-my name is markus renoldner.
+My name is Markus Renoldner.
 
 Find my linkedin here:
 www.linkedin.com/in/markusrenoldner
