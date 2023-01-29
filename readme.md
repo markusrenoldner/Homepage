@@ -8,7 +8,7 @@ I like physics, the mountains and Tango.
 
 # Occupation
 
-My master thesis on numerics of PDEs ([link](https://people.math.ethz.ch/~hiptmair/StudentProjects/sp.html#current))
+My [master thesis](https://people.math.ethz.ch/~hiptmair/StudentProjects/sp.html#current) on numerics of PDEs 
 
 My affiliation to [Team Tumbleweed](https://www.teamtumbleweed.eu/)
 
