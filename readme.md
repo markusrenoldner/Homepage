@@ -6,9 +6,9 @@ My name is Markus Renoldner.
 
 I like physics, the mountains and Tango.
 
-# Occupation
+# Current occupation
 
-My [master thesis](https://people.math.ethz.ch/~hiptmair/StudentProjects/sp.html#current) on numerics of PDEs 
+My [master thesis](https://people.math.ethz.ch/~hiptmair/StudentProjects/sp.html) on numerics of PDEs 
 
 My affiliation to [Team Tumbleweed](https://www.teamtumbleweed.eu/)
 
