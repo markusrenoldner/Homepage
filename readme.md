@@ -2,8 +2,13 @@
 
 My name is Markus Renoldner.
 
-Find my linkedin [https://www.linkedin.com/in/markusrenoldner](https://www.linkedin.com/in/markusrenoldner)
+# Interests
 
-And my github [https://github.com/markusrenoldner](https://github.com/markusrenoldner)
+I like physics, the mountains and Tango.
 
-And my google scholar page [https://scholar.google.com/citations?hl=de&user=uIWbpycAAAAJ](https://scholar.google.com/citations?hl=de&user=uIWbpycAAAAJ)
+# Links
+[LinkedIn](https://www.linkedin.com/in/markusrenoldner)
+
+[GitHub](https://github.com/markusrenoldner)
+
+[Google Scholar](https://scholar.google.com/citations?hl=de&user=uIWbpycAAAAJ)
