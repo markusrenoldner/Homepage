@@ -1,5 +1,3 @@
-# Welcome
-
 My name is Markus Renoldner.
 
 # Interests
