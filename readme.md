@@ -1,6 +1,6 @@
 <head>
 <meta name="google-site-verification" content="ruOBcOn1XgWB3kz3N4Mym7lNwkgxqcFxM-pc9VEJmYs" />
-<head/>
+</head>
   
 
 My name is Markus Renoldner.
