@@ -16,3 +16,6 @@ My affiliation to [Team Tumbleweed](https://www.teamtumbleweed.eu/)
 [GitHub](https://github.com/markusrenoldner)
 
 [Google Scholar](https://scholar.google.com/citations?hl=de&user=uIWbpycAAAAJ)
+
+
+<meta name="google-site-verification" content="ruOBcOn1XgWB3kz3N4Mym7lNwkgxqcFxM-pc9VEJmYs" />
