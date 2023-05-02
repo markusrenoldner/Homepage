@@ -3,8 +3,6 @@
 </head>
   
 
-My name is Markus Renoldner. 
-
 This website is under construction.
 
 # Current occupation
