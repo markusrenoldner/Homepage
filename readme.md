@@ -11,6 +11,18 @@ My [master thesis](https://people.math.ethz.ch/~hiptmair/StudentProjects/sp.html
 
 My affiliation to [Team Tumbleweed](https://www.teamtumbleweed.eu/)
 
+# Past occupation
+
+Visiting associate at Boston Consulting Group (2021)
+
+Systems engineer at RUAG Space (2020)
+
+CEO for One Month at Adecco Group (2020)
+
+Research intern at National University of Sciences and Technology, Islamabad (2019)
+
+Data analyst at KPMG (2017)
+
 # Links
 [LinkedIn](https://www.linkedin.com/in/markusrenoldner)
 
