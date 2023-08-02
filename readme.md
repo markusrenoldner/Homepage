@@ -7,8 +7,6 @@ This website is under construction.
 
 # Current occupation
 
-My [master thesis](https://people.math.ethz.ch/~hiptmair/StudentProjects/sp.html) on numerics of PDEs 
-
 My affiliation to [Team Tumbleweed](https://www.teamtumbleweed.eu/)
 
 # Past occupation
