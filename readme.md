@@ -3,7 +3,6 @@
 </head>
   
 
-This website is under construction.
 
 # Current occupation
 
@@ -22,10 +21,10 @@ Research intern at National University of Sciences and Technology, Islamabad (20
 Data analyst at KPMG (2017)
 
 # Links
-[LinkedIn](https://www.linkedin.com/in/markusrenoldner)
+[LinkedIn](https://www.linkedin.com/in/markusrenoldner) (CV and contact information)
 
-[GitHub](https://github.com/markusrenoldner)
+[GitHub](https://github.com/markusrenoldner) (Software projects)
 
-[Google Scholar](https://scholar.google.com/citations?hl=de&user=uIWbpycAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?hl=de&user=uIWbpycAAAAJ) (Research activity)
 
 
