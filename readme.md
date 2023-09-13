@@ -18,6 +18,8 @@ Systems engineer at RUAG Space (2020)
 
 CEO for One Month at Adecco Group (2020)
 
+Vorstand and Consultant at icons - consulting by students (2017-2020)
+
 Research intern at National University of Sciences and Technology, Islamabad (2019)
 
 Data analyst at KPMG (2017)
