@@ -29,6 +29,6 @@ Data analyst at KPMG (2017)
 
 [GitHub](https://github.com/markusrenoldner) (Software projects)
 
-[Google Scholar](https://scholar.google.com/citations?hl=de&user=uIWbpycAAAAJ) (Research activity)
+[Google Scholar](https://scholar.google.com/citations?user=UB47bUEAAAA) (Research activity)
 
 
