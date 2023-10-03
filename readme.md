@@ -9,6 +9,7 @@
 # Current occupation
 
 My affiliation to [EPFL Institute of Mathematics and EPFL Swiss Plasma Center](https://people.epfl.ch/markus.renoldner/)
+
 My affiliation to [Team Tumbleweed](https://www.teamtumbleweed.eu/)
 
 # Past occupation
