@@ -5,13 +5,12 @@
 -------------------
 
 **A semi-stochastic, numeric simulation tool in model based systems engineering for tumbleweed rovers**
-M Renoldner, J Rothenbucher, L Cohen, M Kapadia, F Mahmood, D. Vicovan; 74th International Astronautical Congress (IAC), Baku, Azerbaijan; 2023
+**M Renoldner**, J Rothenbucher, L Cohen, M Kapadia, F Mahmood, D Vicovan; 74th International Astronautical Congress (IAC), Baku, Azerbaijan; 2023
 
 -------------------
 
 **The Tumbleweed Mission: Enabling Novel Mars Data Sets through Low-Cost Rover Swarms**
-J Rothenbuchner, L Cohen, F Abel, D Buryak, K Cuervo, J Kingsnorth, ...
-73rd International Astronautical Congress (IAC), Paris, France, 18-22 …		2022
+J Rothenbuchner, L Cohen, F Abel, D Buryak, K Cuervo, J Kingsnorth, P Austin, O Mikulskyte, **M Renoldner**, M Sandrieser; 73rd International Astronautical Congress (IAC), Paris, France; 2022
 
 -------------------
 
