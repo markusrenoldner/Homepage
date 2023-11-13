@@ -15,7 +15,6 @@ My affiliation to [Team Tumbleweed](https://www.teamtumbleweed.eu/)
 
 # Past occupation
 
-<div style="max-width: 600px;">
 
 Visiting associate at Boston Consulting Group (2021)
 
@@ -30,7 +29,7 @@ Research intern at National University of Sciences and Technology, Islamabad (20
 Data analyst at KPMG (2017)
 
 
-</div>
+
 
 # Links
 
