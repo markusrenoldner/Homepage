@@ -12,7 +12,7 @@
 
 
 **(MSc Thesis:) A mass, energy, and helicity conserving dual-field discretization of the incompressible Navier-Stokes problem**
-M Renoldner; ETH ZÜrich, TU Wien; 2023; [link1](https://people.math.ethz.ch/~hiptmair/StudentProjects/Renoldner.Markus/MScThesis.pdf); [link2](https://repositum.tuwien.at/handle/20.500.12708/177634)
+M Renoldner; ETH Zürich, TU Wien; 2023; [link1](https://people.math.ethz.ch/~hiptmair/StudentProjects/Renoldner.Markus/MScThesis.pdf); [link2](https://repositum.tuwien.at/handle/20.500.12708/177634)
 
 
 -------------------
