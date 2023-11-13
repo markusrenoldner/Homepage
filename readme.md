@@ -14,22 +14,8 @@ Analysis and numerical modelling of wave PDEs in the context of plasma physics\
 Member of research group of Prof Annalisa Buffa, Prof Marco Picasso, and Prof Paolo Ricci; [my EPFL profile](https://people.epfl.ch/markus.renoldner/)
 
 Simluation engineer at **Team Tumbleweed** (2021-present)\
-Surface propagation modelling of stochastically propelled Mars vehicles\ 
+Surface propagation modelling of stochastically propelled Mars vehicles\
 [Homepage](https://www.teamtumbleweed.eu/)
-
-# Past occupation
-
-Visiting associate at **Boston Consulting Group** (2021)
-
-Systems engineer at **RUAG Space** (2020)
-
-CEO for One Month at **Adecco Group** (2020)
-
-Vorstand and Consultant at **icons - consulting by students** (2017-2020)
-
-Research intern at **National University of Sciences and Technology, Islamabad** (2019)
-
-Data analyst at **KPMG** (2017)
 
 # Research and publications
 
@@ -48,6 +34,24 @@ ETH Zürich, TU Wien; [link1](https://people.math.ethz.ch/~hiptmair/StudentProje
 **The Tumbleweed Mission: Enabling Novel Mars Data Sets through Low-Cost Rover Swarms** (2022)\
 J Rothenbuchner, L Cohen, F Abel, D Buryak, K Cuervo, J Kingsnorth, P Austin, O Mikulskyte, **M Renoldner**, M Sandrieser\
 73rd International Astronautical Congress (IAC), Paris, France; [full text](https://www.teamtumbleweed.eu/development/wp-content/uploads/2022/10/IAC-22A3IPx72458.pdf); [abstract](https://iafastro.directory/iac/paper/id/72458/abstract-pdf/IAC-22,A3,IP,45,x72458.brief.pdf?2022-04-05.09:45:14)
+
+# Past occupation
+
+- Visiting associate at **Boston Consulting Group** (2021)
+- Systems engineer at **RUAG Space** (2020)
+- CEO for One Month at **Adecco Group** (2020)
+- Vorstand and Consultant at **icons - consulting by students** (2017-2020)
+- Research intern at **National University of Sciences and Technology, Islamabad** (2019)
+- Data analyst at **KPMG** (2017)
+
+# Education
+
+- MSc. Computational Science and Engineering at TU Wien (2021-2023)
+- Master’s Thesis in Applied Mathematics at ETH Zürich (2022-2023)
+- MSc. exchange in Applied and Computational Mathematics at KTH Stockholm (2022)
+- BSc. Mechanical Engineering and Management at TU Wien (2016-2020)
+- BSc. Physics at TU Wien (discontinued)
+
 
 # Links
 
