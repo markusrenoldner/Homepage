@@ -1,6 +1,11 @@
 <head>
 <meta name="google-site-verification" content="ruOBcOn1XgWB3kz3N4Mym7lNwkgxqcFxM-pc9VEJmYs" />
 </head>
+
+---
+title: Your Custom Title
+---
+
   
 
 # Current occupation
@@ -13,12 +18,18 @@ My affiliation to [Team Tumbleweed](https://www.teamtumbleweed.eu/)
 
 <div style="max-width: 600px;">
 
-  Visiting associate at Boston Consulting Group (2021)
+Visiting associate at Boston Consulting Group (2021)
+
 Systems engineer at RUAG Space (2020)
+
 CEO for One Month at Adecco Group (2020)
+
 Vorstand and Consultant at icons - consulting by students (2017-2020)
+
 Research intern at National University of Sciences and Technology, Islamabad (2019)
+
 Data analyst at KPMG (2017)
+
 
 </div>
 
