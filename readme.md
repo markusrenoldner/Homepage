@@ -16,6 +16,8 @@ Vorstand and Consultant at icons - consulting by students (2017-2020)
 Research intern at National University of Sciences and Technology, Islamabad (2019)
 Data analyst at KPMG (2017)
 # Links
+[Publication list](publications.md)
 [LinkedIn](https://www.linkedin.com/in/markusrenoldner) (CV and contact information)
 [GitHub](https://github.com/markusrenoldner) (Software projects)
 [Google Scholar](https://scholar.google.com/citations?user=UB47bUEAAAA) (Research activity)
+
