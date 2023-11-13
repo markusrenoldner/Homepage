@@ -33,7 +33,7 @@ Data analyst at KPMG (2017)
 
 # Links
 
-[Publication list](publications.md)
+[Publications](publications.md)
 
 [LinkedIn](https://www.linkedin.com/in/markusrenoldner)
 
