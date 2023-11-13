@@ -9,9 +9,9 @@
 
 # Current occupation
 
-Doctoral assistant at [EPFL Institute of Mathematics and EPFL Swiss Plasma Center](https://people.epfl.ch/markus.renoldner/)
+Doctoral assistant at **EPFL Institute of Mathematics** and **EPFL Swiss Plasma Center**, [link](https://people.epfl.ch/markus.renoldner/)
 
-Simluation engineer at [Team Tumbleweed](https://www.teamtumbleweed.eu/)
+Simluation engineer at **Team Tumbleweed**, [link](https://www.teamtumbleweed.eu/)
 
 # Past occupation
 
