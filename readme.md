@@ -9,7 +9,7 @@ My name is Markus Renoldner. Welcome on my homepage.
 
 # Current occupation
 
-Doctoral assistant at **EPFL Institute of Mathematics** and **EPFL Swiss Plasma Center** (2023-present), [link](https://people.epfl.ch/markus.renoldner/)
+Doctoral assistant at **EPFL Institute of Mathematics** and **EPFL Swiss Plasma Center** (2023-present), supervisors: Prof Annalisa Buffa, Prof Marco Picasso, Prof Paolo Ricci [link](https://people.epfl.ch/markus.renoldner/)
 
 Simluation engineer at **Team Tumbleweed** (2021-present), [link](https://www.teamtumbleweed.eu/)
 
