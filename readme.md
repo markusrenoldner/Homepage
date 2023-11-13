@@ -57,8 +57,6 @@ J Rothenbuchner, L Cohen, F Abel, D Buryak, K Cuervo, J Kingsnorth, P Austin, O 
 
 # Links
 
-[Publications](publications.md)
-
 [LinkedIn](https://www.linkedin.com/in/markusrenoldner)
 
 [GitHub](https://github.com/markusrenoldner)
