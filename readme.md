@@ -37,6 +37,8 @@ ETH Zürich, TU Wien; [link1](https://people.math.ethz.ch/~hiptmair/StudentProje
 J Rothenbuchner, L Cohen, F Abel, D Buryak, K Cuervo, J Kingsnorth, P Austin, O Mikulskyte, **M Renoldner**, M Sandrieser\
 73rd International Astronautical Congress (IAC), Paris, France; [full text](https://www.teamtumbleweed.eu/development/wp-content/uploads/2022/10/IAC-22A3IPx72458.pdf); [abstract](https://iafastro.directory/iac/paper/id/72458/abstract-pdf/IAC-22,A3,IP,45,x72458.brief.pdf?2022-04-05.09:45:14)
 
+-------------------
+
 # Past occupation
 
 - Visiting associate at **Boston Consulting Group** (2021)
