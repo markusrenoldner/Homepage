@@ -63,4 +63,5 @@ J Rothenbuchner, L Cohen, F Abel, D Buryak, K Cuervo, J Kingsnorth, P Austin, O 
 
 [Google Scholar](https://scholar.google.com/citations?user=UB47bUEAAAA) 
 
+Email: firstname dot lastname at epfl dot ch
 
