@@ -1,4 +1,9 @@
+theme: jekyll-theme-minimal
 title: Markus Renoldner
 description: Homepage
-url: markusrenoldner.com
-theme: jekyll-theme-minimal
+url: https://www.markusrenoldner.com/
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
