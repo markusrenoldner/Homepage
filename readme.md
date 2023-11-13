@@ -19,8 +19,6 @@ Surface propagation modelling of stochastically propelled Mars vehicles\
 
 # Research and publications
 
--------------------
-
 **A semi-stochastic, numeric simulation tool in model based systems engineering for tumbleweed rovers** (2023)\
 **M Renoldner**, J Rothenbucher, L Cohen, M Kapadia, F Mahmood, D Vicovan\
 74th International Astronautical Congress (IAC), Baku, Azerbaijan; [abstract](https://iafastro.directory/iac/paper/id/77760/abstract-pdf/IAC-23,D1,4A,11,x77760.brief.pdf?2023-09-14.18:16:05)
@@ -37,7 +35,6 @@ ETH Zürich, TU Wien; [link1](https://people.math.ethz.ch/~hiptmair/StudentProje
 J Rothenbuchner, L Cohen, F Abel, D Buryak, K Cuervo, J Kingsnorth, P Austin, O Mikulskyte, **M Renoldner**, M Sandrieser\
 73rd International Astronautical Congress (IAC), Paris, France; [full text](https://www.teamtumbleweed.eu/development/wp-content/uploads/2022/10/IAC-22A3IPx72458.pdf); [abstract](https://iafastro.directory/iac/paper/id/72458/abstract-pdf/IAC-22,A3,IP,45,x72458.brief.pdf?2022-04-05.09:45:14)
 
--------------------
 
 # Past occupation
 
@@ -66,7 +63,4 @@ J Rothenbuchner, L Cohen, F Abel, D Buryak, K Cuervo, J Kingsnorth, P Austin, O 
 [Google Scholar](https://scholar.google.com/citations?user=UB47bUEAAAA) 
 
 Email: firstname dot lastname at epfl dot ch
-
-
--------------------
 
