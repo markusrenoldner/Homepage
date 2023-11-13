@@ -35,10 +35,10 @@ Data analyst at KPMG (2017)
 
 [Publication list](publications.md)
 
-[LinkedIn](https://www.linkedin.com/in/markusrenoldner) (CV and contact information)
+[LinkedIn](https://www.linkedin.com/in/markusrenoldner)
 
-[GitHub](https://github.com/markusrenoldner) (Software projects)
+[GitHub](https://github.com/markusrenoldner)
 
-[Google Scholar](https://scholar.google.com/citations?user=UB47bUEAAAA) (Research activity)
+[Google Scholar](https://scholar.google.com/citations?user=UB47bUEAAAA) 
 
 
