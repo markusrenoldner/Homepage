@@ -21,9 +21,9 @@ Surface propagation modelling of stochastically propelled Mars vehicles\
 
 -------------------
 
-\
+ \
 
-\
+ \
 
 # Research and publications
 
