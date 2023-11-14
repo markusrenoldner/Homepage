@@ -19,6 +19,8 @@ Simluation engineer at **Team Tumbleweed** (2021-present)\
 Surface propagation modelling of stochastically propelled Mars vehicles\
 [Homepage](https://www.teamtumbleweed.eu/)
 
+-------------------
+
 # Research and publications
 
 **A semi-stochastic, numeric simulation tool in model based systems engineering for tumbleweed rovers** (2023)\
