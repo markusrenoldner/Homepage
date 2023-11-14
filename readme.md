@@ -13,9 +13,16 @@ Doctoral assistant at **EPFL Institute of Mathematics** and **EPFL Swiss Plasma 
 Analysis and numerical modelling of wave PDEs in the context of plasma physics\
 Member of research group of Prof Annalisa Buffa, Prof Marco Picasso, and Prof Paolo Ricci; [my EPFL profile](https://people.epfl.ch/markus.renoldner/)
 
+-------------------
+
 Simluation engineer at **Team Tumbleweed** (2021-present)\
 Surface propagation modelling of stochastically propelled Mars vehicles\
 [Homepage](https://www.teamtumbleweed.eu/)
+
+-------------------
+
+<br />
+
 
 # Research and publications
 
@@ -37,6 +44,9 @@ J Rothenbuchner, L Cohen, F Abel, D Buryak, K Cuervo, J Kingsnorth, P Austin, O 
 
 -------------------
 
+
+<br />
+
 # Past occupation
 
 - Visiting associate at **Boston Consulting Group** (2021)
@@ -46,6 +56,9 @@ J Rothenbuchner, L Cohen, F Abel, D Buryak, K Cuervo, J Kingsnorth, P Austin, O 
 - Research intern at **National University of Sciences and Technology, Islamabad** (2019)
 - Data analyst at **KPMG** (2017)
 
+
+<br />
+
 # Education
 
 - MSc. Computational Science and Engineering at **TU Wien** (2021-2023)
@@ -54,6 +67,8 @@ J Rothenbuchner, L Cohen, F Abel, D Buryak, K Cuervo, J Kingsnorth, P Austin, O 
 - BSc. Physics at **TU Wien** (discontinued)
 - BSc. Mechanical Engineering and Management at **TU Wien** (2016-2020)
 
+
+<br />
 
 # Links
 
