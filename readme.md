@@ -13,6 +13,8 @@ Doctoral assistant at **EPFL Institute of Mathematics** and **EPFL Swiss Plasma 
 Analysis and numerical modelling of wave PDEs in the context of plasma physics\
 Member of research group of Prof Annalisa Buffa, Prof Marco Picasso, and Prof Paolo Ricci; [my EPFL profile](https://people.epfl.ch/markus.renoldner/)
 
+-------------------
+
 Simluation engineer at **Team Tumbleweed** (2021-present)\
 Surface propagation modelling of stochastically propelled Mars vehicles\
 [Homepage](https://www.teamtumbleweed.eu/)
