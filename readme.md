@@ -20,7 +20,8 @@ Surface propagation modelling of stochastically propelled Mars vehicles\
 [Homepage](https://www.teamtumbleweed.eu/)
 
 -------------------
-\
+
+<br />
 
 
 # Research and publications
