@@ -36,7 +36,8 @@ Surface propagation modelling of stochastically propelled Mars vehicles\
 
 **MSc. Thesis: A mass, energy, and helicity conserving dual-field discretization of the incompressible Navier-Stokes problem** (2023)\
 **M Renoldner**\
-ETH Zürich, TU Wien; [link1](https://people.math.ethz.ch/~hiptmair/StudentProjects/Renoldner.Markus/MScThesis.pdf); [link2](https://repositum.tuwien.at/handle/20.500.12708/177634)
+ETH Zürich, TU Wien; [link1](https://people.math.ethz.ch/~hiptmair/StudentProjects/Renoldner.Markus/MScThesis.pdf); [link2](https://repositum.tuwien.at/handle/20.500.12708/177634)\
+https://doi.org/10.34726/hss.2023.110820
 
 -------------------
 
