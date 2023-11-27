@@ -67,7 +67,7 @@ J Rothenbuchner, L Cohen, F Abel, D Buryak, K Cuervo, J Kingsnorth, P Austin, O 
 - MSc. Computational Science and Engineering at **TU Wien** (2021-2023)
 - Master’s Thesis in Applied Mathematics at **ETH Zürich** (2022-2023)
 - MSc. exchange in Applied and Computational Mathematics at **KTH Stockholm** (2022)
-- BSc. Physics at **TU Wien** (discontinued)
+- BSc. studies in Physics at **TU Wien** (discontinued without BSc. degree)
 - BSc. Mechanical Engineering and Management at **TU Wien** (2016-2020)
 
 
