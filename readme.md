@@ -30,7 +30,7 @@ Surface propagation modelling of stochastically propelled Mars vehicles\
 
 **A semi-stochastic, numeric simulation tool in model based systems engineering for tumbleweed rovers** (2023)\
 **M Renoldner**, J Rothenbucher, L Cohen, M Kapadia, F Mahmood, D Vicovan\
-74th International Astronautical Congress (IAC), Baku, Azerbaijan; [abstract](https://iafastro.directory/iac/paper/id/77760/abstract-pdf/IAC-23,D1,4A,11,x77760.brief.pdf?2023-09-14.18:16:05)
+74th International Astronautical Congress (IAC), Baku, Azerbaijan; [full text](https://www.teamtumbleweed.eu/development/wp-content/uploads/2023/12/IAC-23D14A11x77760.pdf); [abstract](https://iafastro.directory/iac/paper/id/77760/abstract-pdf/IAC-23,D1,4A,11,x77760.brief.pdf?2023-09-14.18:16:05)
 
 -------------------
 
