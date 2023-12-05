@@ -30,7 +30,7 @@ Surface propagation modelling of stochastically propelled Mars vehicles\
 # Research and publications
 
 **A semi-stochastic, numeric simulation tool in model based systems engineering for tumbleweed rovers** (2023)\
-**M Renoldner**, J Rothenbucher, L Cohen, M Kapadia, F Mahmood, D Vicovan\
+**Renoldner, M.**, Rothenbuchner, J., Cohen, L., Kapadia, M., Mahmood, F., & Vicovan, D.\
 74th International Astronautical Congress (IAC), Baku, Azerbaijan; [full text](https://www.teamtumbleweed.eu/development/wp-content/uploads/2023/12/IAC-23D14A11x77760.pdf); [abstract](https://iafastro.directory/iac/paper/id/77760/abstract-pdf/IAC-23,D1,4A,11,x77760.brief.pdf?2023-09-14.18:16:05)
 
 -------------------
@@ -42,14 +42,14 @@ Cohen, L., **Renoldner, M.**, Kapadia, M., Vicovan, D.-A., Mahmood, F., Mikulsky
 -------------------
 
 **MSc. Thesis: A mass, energy, and helicity conserving dual-field discretization of the incompressible Navier-Stokes problem** (2023)\
-**M Renoldner**\
+**Renoldner, M.**\
 ETH Zürich, TU Wien; [link1](https://people.math.ethz.ch/~hiptmair/StudentProjects/Renoldner.Markus/MScThesis.pdf); [link2](https://repositum.tuwien.at/handle/20.500.12708/177634)\
 https://doi.org/10.34726/hss.2023.110820
 
 -------------------
 
 **The Tumbleweed Mission: Enabling Novel Mars Data Sets through Low-Cost Rover Swarms** (2022)\
-J Rothenbuchner, L Cohen, F Abel, D Buryak, K Cuervo, J Kingsnorth, P Austin, O Mikulskyte, **M Renoldner**, M Sandrieser\
+Rothenbuchner, J., Cohen, L., Abel, F., Buryak, D., Cuervo, K., Kingsnorth, J., Mikulskyte, O., Phillips, A., **Renoldner, M.**, Sandrieser, M.\
 73rd International Astronautical Congress (IAC), Paris, France; [full text](https://www.teamtumbleweed.eu/development/wp-content/uploads/2022/10/IAC-22A3IPx72458.pdf); [abstract](https://iafastro.directory/iac/paper/id/72458/abstract-pdf/IAC-22,A3,IP,45,x72458.brief.pdf?2022-04-05.09:45:14)
 
 -------------------
