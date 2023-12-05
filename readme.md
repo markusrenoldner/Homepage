@@ -19,7 +19,8 @@ Member of research group of Prof Annalisa Buffa, Prof Marco Picasso, and Prof Pa
 
 Simluation engineer at **Team Tumbleweed** (2021-present)\
 Surface propagation modelling of stochastically propelled Mars vehicles\
-[https://www.teamtumbleweed.eu/](https://www.teamtumbleweed.eu/)
+[https://www.teamtumbleweed.eu/](https://www.teamtumbleweed.eu/)\
+[https://www.teamtumbleweed.eu/research/](https://www.teamtumbleweed.eu/research/)
 
 -------------------
 
@@ -31,6 +32,12 @@ Surface propagation modelling of stochastically propelled Mars vehicles\
 **A semi-stochastic, numeric simulation tool in model based systems engineering for tumbleweed rovers** (2023)\
 **M Renoldner**, J Rothenbucher, L Cohen, M Kapadia, F Mahmood, D Vicovan\
 74th International Astronautical Congress (IAC), Baku, Azerbaijan; [full text](https://www.teamtumbleweed.eu/development/wp-content/uploads/2023/12/IAC-23D14A11x77760.pdf); [abstract](https://iafastro.directory/iac/paper/id/77760/abstract-pdf/IAC-23,D1,4A,11,x77760.brief.pdf?2023-09-14.18:16:05)
+
+-------------------
+
+**Pre-Phase A study of an innovative, low-cost Demonstration Mission of Tumbleweed mobile impactors on Mars.** (2023)\
+Cohen, L., **Renoldner, M.**, Kapadia, M., Vicovan, D.-A., Mahmood, F., Mikulskytė, O., & Rothenbuchner, J.\
+74th International Astronautical Congress (IAC), Baku, Azerbaijan; [full text](https://www.teamtumbleweed.eu/development/wp-content/uploads/2023/12/IAC-23A3IP47x77769.pdf); [abstract](https://iafastro.directory/iac/paper/id/77769/ext/abstract-pdf/IAC-23,A3,IP,47,x77769.brief.pdf?2023-09-15.15:19:49)
 
 -------------------
 
