@@ -86,7 +86,7 @@ Rothenbuchner, J., Cohen, L., Abel, F., Buryak, D., Cuervo, K., Kingsnorth, J., 
 
 [GitHub](https://github.com/markusrenoldner)
 
-[Google Scholar](https://scholar.google.com/citations?user=UB47bUEAAAA) 
+[Google Scholar](https://scholar.google.com/citations?user=UB47bUEAAAAJ) 
 
 Email: firstname dot lastname at epfl dot ch
 
