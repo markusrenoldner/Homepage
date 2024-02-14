@@ -11,9 +11,9 @@ My name is Markus Renoldner. Welcome to my homepage.
 
 # Current occupation
 
-Doctoral assistant at **EPFL Institute of Mathematics** and **EPFL Swiss Plasma Center** (2023-present)\
+Doctoral assistant at **EPFL Institute of Mathematics** (2023-present)\
 Analysis and numerical modelling of wave PDEs in the context of plasma physics\
-Member of research group of Prof Annalisa Buffa, Prof Marco Picasso, and Prof Paolo Ricci; [my EPFL profile](https://people.epfl.ch/markus.renoldner/)
+Member of research group of Prof Annalisa Buffa, Prof Marco Picasso; [my EPFL profile](https://people.epfl.ch/markus.renoldner/)
 
 -------------------
 
