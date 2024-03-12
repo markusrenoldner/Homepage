@@ -57,7 +57,7 @@ Rothenbuchner, J., Cohen, L., Abel, F., Buryak, D., Cuervo, K., Kingsnorth, J., 
 
 <br />
 
-# Past occupation
+# Past occupation (incomplete)
 
 - Visiting associate at **Boston Consulting Group** (2021)
 - Systems engineer at **RUAG Space** (2020)
