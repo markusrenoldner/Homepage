@@ -12,8 +12,8 @@ My name is Markus Renoldner. Welcome to my homepage.
 # Current occupation
 
 Doctoral assistant at **EPFL Institute of Mathematics** (2023-present)\
-Analysis and numerical analysis of wave PDEs\
-Member of research group of Prof Annalisa Buffa, Prof Marco Picasso; [my EPFL profile](https://people.epfl.ch/markus.renoldner/)
+Numerical analysis and well-posedness of partial differential equations\
+Member of research groups of Prof Annalisa Buffa, Prof Marco Picasso; [my EPFL profile](https://people.epfl.ch/markus.renoldner/)
 
 -------------------
 
@@ -52,7 +52,7 @@ Rothenbuchner, J., Cohen, L., Abel, F., Buryak, D., Cuervo, K., Kingsnorth, J., 
 
 # Past occupation (incomplete)
 
-- Simluation engineer and Management member at **Team Tumbleweed** (2021-2024)
+- Simluation engineer and management member at **Team Tumbleweed** (2021-2024)
 - Visiting associate at **Boston Consulting Group** (2021)
 - Systems engineer at **RUAG Space** (2020)
 - CEO for One Month at **Adecco Group** (2020)
