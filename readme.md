@@ -65,6 +65,7 @@ Rothenbuchner, J., Cohen, L., Abel, F., Buryak, D., Cuervo, K., Kingsnorth, J., 
 
 # Education
 
+- Doctoral studies in Mathematics at **EPFL** (2023-present)
 - MSc. Computational Science and Engineering at **TU Wien** (2021-2023)
 - Master’s Thesis in Applied Mathematics at **ETH Zürich** (2022-2023)
 - MSc. exchange in Applied and Computational Mathematics at **KTH Stockholm** (2022)
