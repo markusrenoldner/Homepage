@@ -13,7 +13,7 @@ My name is Markus Renoldner. Welcome to my homepage.
 
 Doctoral assistant at **EPFL Institute of Mathematics** (2023-present)\
 Numerical analysis and well-posedness of partial differential equations\
-Member of research groups of Prof Annalisa Buffa, Prof Marco Picasso; [my EPFL profile](https://people.epfl.ch/markus.renoldner/)
+Member of research groups of Prof Annalisa Buffa, Prof Marco Picasso; [my EPFL profile](https://people.epfl.ch/markus.renoldner/?lang=en)
 
 -------------------
 
