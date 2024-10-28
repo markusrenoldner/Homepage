@@ -72,8 +72,16 @@ Rothenbuchner, J., Cohen, L., Abel, F., Buryak, D., Cuervo, K., Kingsnorth, J., 
 - BSc. studies in Physics at **TU Wien** (discontinued without BSc. degree)
 - BSc. Mechanical Engineering and Management at **TU Wien** (2016-2020)
 
+<br />
+
+# Test video
+
+![video](./output.gif)
+
 
 <br />
+
+
 
 # Links
 
