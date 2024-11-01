@@ -37,7 +37,7 @@ Cohen, L., **Renoldner, M.**, Kapadia, M., Vicovan, D.-A., Mahmood, F., Mikulsky
 **MSc. Thesis: A mass, energy, and helicity conserving dual-field discretization of the incompressible Navier-Stokes problem** (2023)\
 **Renoldner, M.**\
 ETH Zürich, TU Wien; [link1](https://people.math.ethz.ch/~hiptmair/StudentProjects/Renoldner.Markus/MScThesis.pdf); [link2](https://repositum.tuwien.at/handle/20.500.12708/177634)\
-https://doi.org/10.34726/hss.2023.110820
+[https://doi.org/10.34726/hss.2023.110820](https://doi.org/10.34726/hss.2023.110820
 
 -------------------
 
