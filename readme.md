@@ -3,6 +3,11 @@
 </head>
 
 
+$\textcolor{red}{OUTDATED HOMEPAGE.}$
+
+Current homepage at: www.markusrenoldner.com
+
+
 
 My name is Markus Renoldner. Welcome to my homepage.
   
