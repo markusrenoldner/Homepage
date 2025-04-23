@@ -3,7 +3,7 @@
 </head>
 
 
-\textcolor{red}{OUTDATED HOMEPAGE.}
+$$\textcolor{red}{\text{OUTDATED HOMEPAGE.}}$$
 
 Current homepage at: www.markusrenoldner.com
 
