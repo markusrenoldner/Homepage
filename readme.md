@@ -5,7 +5,7 @@
 
 $$\textcolor{red}{\text{OUTDATED HOMEPAGE.}}$$
 
-$\textcolor{red}{\text{Current homepage:}}$ www.markusrenoldner.com
+\\(\textcolor{red}{\text{Current homepage:}}\\) www.markusrenoldner.com
 
 
 <br />
