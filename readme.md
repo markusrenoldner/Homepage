@@ -5,9 +5,10 @@
 
 $$\textcolor{red}{\text{OUTDATED HOMEPAGE.}}$$
 
-Current homepage at: www.markusrenoldner.com
+$\textcolor{red}{\text{Current homepage:}}$ www.markusrenoldner.com
 
 
+<br />
 
 My name is Markus Renoldner. Welcome to my homepage.
   
